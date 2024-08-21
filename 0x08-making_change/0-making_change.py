@@ -3,6 +3,7 @@
 Coin Change Algorithm
 """
 
+
 def makeChange(coins, total):
     """Calculate the fewest number needed to meet,
     needed to meet a given total amount.
